@@ -16,4 +16,4 @@ In this research project, i did the following
 
 Attached in this repository is my rersearch work in a PDF format.
 
-[Download Analysis Report PDF](MAT 499 PROJECT WORK.pdf)
+[Download Analysis Report PDF](https://github.com/Ebenezer-Gbedeh/Ebenezer-Gbedeh.github.io/blob/main/MAT%20499%20PROJECT%20WORK.pdf)
