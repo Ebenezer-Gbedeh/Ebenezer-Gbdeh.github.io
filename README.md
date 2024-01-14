@@ -1,6 +1,6 @@
 [Research project](https://github.com/Ebenezer-Gbedeh/Ebenezer-Gbedeh.github.io/blob/main/MAT%20499%20PROJECT%20WORK.pdf)
 
-**TOPIC : STABILITY ANALYSIS AND NUMERICAL SIMULATION OF A GOMPERTZ PREDATOR PREY MODEL**
+**TOPIC : STABILITY ANALYSIS AND NUMERICAL SIMULATION OF A GOMPERTZ - PREDATOR PREY MODEL**
 
 Welcome to the Gompertz Predator-Prey Model Analysis repository, where I made a research to  look into the interesting dynamics of predator-prey interactions using the Gompertz model.
 
