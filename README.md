@@ -17,4 +17,4 @@ In this research project, i did the following
 Attached in this repository is my rersearch work in a PDF format.
 
 
-[Click here to download the research project in PDF](https://github.com/Ebenezer-Gbedeh/Ebenezer-Gbedeh.github.io/blob/main/MAT%20499%20PROJECT%20WORK.pdf)
+[Click here to view my research project in PDF](https://github.com/Ebenezer-Gbedeh/Ebenezer-Gbedeh.github.io/blob/main/MAT%20499%20PROJECT%20WORK.pdf)
