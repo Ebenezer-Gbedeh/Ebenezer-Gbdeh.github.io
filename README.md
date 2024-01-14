@@ -15,3 +15,5 @@ In this research project, i did the following
 **2.Real-World Relevance**: This project will help gain important insights into the dynamics of ecosystems by comprehending the applications of the Gompertz predator-prey model.
 
 Attached in this repository is my rersearch work in a PDF format.
+
+[Download Analysis Report PDF](MAT 499 PROJECT WORK.pdf)
